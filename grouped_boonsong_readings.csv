@@ -1,0 +1,812 @@
+,location,measure,mean,min,max,median
+46,Boonsri,"1,2,3-Trichlorobenzene",0.001,0.001,0.001,0.001
+469,Kohsoom,"1,2,3-Trichlorobenzene",0.00251875,0.001,0.0253,0.001
+47,Boonsri,"1,2,4-Trichlorobenzene",0.001,0.001,0.001,0.001
+470,Kohsoom,"1,2,4-Trichlorobenzene",0.001,0.001,0.001,0.001
+48,Boonsri,Acenaphthene,0.003600333,0.003,0.03126,0.003
+471,Kohsoom,Acenaphthene,0.003,0.003,0.003,0.003
+49,Boonsri,Acenaphthylene,0.004,0.004,0.004,0.004
+472,Kohsoom,Acenaphthylene,0.004,0.004,0.004,0.004
+50,Boonsri,AGOC-3A,3.952450549,0.002,226.904,0.283
+138,Busarakhan,AGOC-3A,0.493096774,0.006,5.813,0.28
+235,Chai,AGOC-3A,0.667153846,0.004,6.865,0.2925
+373,Kannika,AGOC-3A,0.377108696,0.001,4.877,0.2765
+473,Kohsoom,AGOC-3A,0.3345625,0.001,2.401,0.282
+563,Sakda,AGOC-3A,0.378591398,0,4.215,0.278
+660,Somchair,AGOC-3A,0.439580645,0.003,5.396,0.275
+51,Boonsri,Alachlor,0.186088889,0,0.86,0.146
+139,Busarakhan,Alachlor,0.094928571,0,0.475,0.07
+236,Chai,Alachlor,0.113486486,0,0.496,0.0695
+374,Kannika,Alachlor,0.146292683,0,0.599,0.1025
+474,Kohsoom,Alachlor,0.177821429,0,0.574,0.1085
+564,Sakda,Alachlor,0.132,0,0.567,0.1015
+661,Somchair,Alachlor,0.091689655,0,0.465,0.078
+52,Boonsri,Aldrin,0.04058619,0,0.365,0.0145
+140,Busarakhan,Aldrin,0.045685714,0,0.336,0.017
+237,Chai,Aldrin,0.038234286,0,0.428,0.012
+375,Kannika,Aldrin,0.045075269,0,0.501,0.018
+475,Kohsoom,Aldrin,0.034458333,0,0.231,0.015
+565,Sakda,Aldrin,0.048347368,0,0.385,0.017
+662,Somchair,Aldrin,0.049228571,0,0.309,0.018
+757,Tansanee,Aldrin,0.009,0.009,0.009,0.009
+53,Boonsri,alpha-Hexachlorocyclohexane,0.019331169,0,0.145,0.005
+141,Busarakhan,alpha-Hexachlorocyclohexane,0.0399375,0,0.529,0.005
+238,Chai,alpha-Hexachlorocyclohexane,0.019646707,0,0.339,0.005
+376,Kannika,alpha-Hexachlorocyclohexane,0.012177083,0,0.119,0.005
+476,Kohsoom,alpha-Hexachlorocyclohexane,0.012322581,0,0.091,0.005
+566,Sakda,alpha-Hexachlorocyclohexane,0.019119565,0,0.211,0.005
+663,Somchair,alpha-Hexachlorocyclohexane,0.033516129,0,0.398,0.005
+142,Busarakhan,Aluminium,141.04,50.4,520,111
+239,Chai,Aluminium,158.3666667,33.1,790,97
+377,Kannika,Aluminium,108.7384615,0,410,87
+567,Sakda,Aluminium,124.9722222,23,500,90.5
+664,Somchair,Aluminium,188.3,69.3,690,147
+1,Achara,Ammonium,0.11542963,0,0.912,0.076
+54,Boonsri,Ammonium,0.227492725,0,3.986,0.17
+143,Busarakhan,Ammonium,0.366297133,0,4.54,0.211
+240,Chai,Ammonium,0.258316821,0,1.78,0.188
+331,Decha,Ammonium,0.261006757,0,6.138,0.144
+378,Kannika,Ammonium,0.249826676,0,2.63,0.1818
+477,Kohsoom,Ammonium,2.566232407,0.24,14.2,2.165
+568,Sakda,Ammonium,0.263447923,0,2.93,0.183
+665,Somchair,Ammonium,0.464517746,0,3.4,0.289
+758,Tansanee,Ammonium,1.370287879,0.01,14.869,0.3245
+2,Achara,Anionic active surfactants,0.019428571,0,0.034,0.034
+55,Boonsri,Anionic active surfactants,0.06581203,0,0.333,0.05
+144,Busarakhan,Anionic active surfactants,0.077402,0,0.39,0.08
+241,Chai,Anionic active surfactants,0.05940944,0,0.44,0.053
+332,Decha,Anionic active surfactants,0.013551724,0,0.142,0
+379,Kannika,Anionic active surfactants,0.061757735,0,0.706,0.053
+478,Kohsoom,Anionic active surfactants,0.114176829,0,0.52,0.068
+569,Sakda,Anionic active surfactants,0.068615352,0,0.58,0.06
+666,Somchair,Anionic active surfactants,0.089097938,0,0.5,0.09
+759,Tansanee,Anionic active surfactants,0.040614697,0,0.273,0
+56,Boonsri,Anthracene,0.006524467,0.005,0.02402,0.005
+145,Busarakhan,Anthracene,0.009,0.0075,0.0105,0.009
+242,Chai,Anthracene,0.00846,0.0075,0.0116,0.0075
+380,Kannika,Anthracene,0.00805,0.0075,0.0086,0.00805
+479,Kohsoom,Anthracene,0.00716875,0.005,0.01954,0.005
+570,Sakda,Anthracene,0.0085,0.0085,0.0085,0.0085
+667,Somchair,Anthracene,0.0075,0.0075,0.0075,0.0075
+760,Tansanee,Anthracene,0.002,0,0.004,0.002
+57,Boonsri,AOX,12.93013699,0,54,14.55
+146,Busarakhan,AOX,7.966666667,0,29.5,0
+243,Chai,AOX,2.704444444,0,21,0
+381,Kannika,AOX,3.614130435,0,22,0
+480,Kohsoom,AOX,22.02857143,0,53,27.3
+571,Sakda,AOX,6.157971014,0,25,0
+668,Somchair,AOX,9.388,0,44.2,0
+3,Achara,Arsenic,0.788709677,0,2.4,0.9
+58,Boonsri,Arsenic,0.403131387,0,3.1,0
+147,Busarakhan,Arsenic,1.101826923,0,2.227,1.2
+244,Chai,Arsenic,0.767941176,0,2.5,0.895
+333,Decha,Arsenic,1.76,0.5,3.08,1.62
+382,Kannika,Arsenic,1.152081897,0,2.9,1.2
+481,Kohsoom,Arsenic,1.769676923,0,5,2.1
+572,Sakda,Arsenic,1.304835,0,2.8,1.3
+669,Somchair,Arsenic,1.14,0,2.5,1.2
+761,Tansanee,Arsenic,4.267090909,0,17.138,3.048
+4,Achara,Atrazine,0.004733333,0,0.213,0
+59,Boonsri,Atrazine,0.074125654,0,0.542,0
+148,Busarakhan,Atrazine,0.156219512,0,0.5,0.05
+245,Chai,Atrazine,0.116562919,0,0.5,0.01
+334,Decha,Atrazine,0,0,0,0
+383,Kannika,Atrazine,0.132796569,0,0.5,0
+482,Kohsoom,Atrazine,0.091462963,0,1.04,0
+573,Sakda,Atrazine,0.142233161,0,0.51,0.02
+670,Somchair,Atrazine,0.140984962,0,0.5,0.01
+762,Tansanee,Atrazine,0.002173913,0,0.05,0
+149,Busarakhan,Barium,37,12,70,33
+246,Chai,Barium,25.51785714,12.2,48,21
+384,Kannika,Barium,31.31612903,13.2,70,26
+574,Sakda,Barium,30.45054054,15.4,71,24
+671,Somchair,Barium,39.35,12.8,78,35
+60,Boonsri,Benzo(a)anthracene,0.003645333,0.0035,0.00612,0.0035
+150,Busarakhan,Benzo(a)anthracene,0,0,0,0
+247,Chai,Benzo(a)anthracene,0,0,0,0
+385,Kannika,Benzo(a)anthracene,0,0,0,0
+483,Kohsoom,Benzo(a)anthracene,0.0035675,0.0035,0.00408,0.0035
+575,Sakda,Benzo(a)anthracene,0,0,0,0
+672,Somchair,Benzo(a)anthracene,0,0,0,0
+763,Tansanee,Benzo(a)anthracene,0.0035,0.002,0.005,0.0035
+61,Boonsri,Benzo(a)pyrene,0.007523667,0.0075,0.00892,0.0075
+151,Busarakhan,Benzo(a)pyrene,0.000333333,0,0.001,0
+248,Chai,Benzo(a)pyrene,0.000285714,0,0.001,0
+386,Kannika,Benzo(a)pyrene,5.00E-04,0,0.001,5.00E-04
+484,Kohsoom,Benzo(a)pyrene,0.007117647,0.001,0.0075,0.0075
+576,Sakda,Benzo(a)pyrene,5.00E-04,0,0.001,5.00E-04
+673,Somchair,Benzo(a)pyrene,0.000333333,0,0.001,0
+764,Tansanee,Benzo(a)pyrene,0.002,0.002,0.002,0.002
+62,Boonsri,Benzo(b)fluoranthene,0.007825333,0.0075,0.01992,0.0075
+152,Busarakhan,Benzo(b)fluoranthene,0.000333333,0,0.001,0
+249,Chai,Benzo(b)fluoranthene,0.000285714,0,0.001,0
+387,Kannika,Benzo(b)fluoranthene,5.00E-04,0,0.001,5.00E-04
+485,Kohsoom,Benzo(b)fluoranthene,0.007117647,0.001,0.0075,0.0075
+577,Sakda,Benzo(b)fluoranthene,5.00E-04,0,0.001,5.00E-04
+674,Somchair,Benzo(b)fluoranthene,0.009666667,0,0.028,0.001
+765,Tansanee,Benzo(b)fluoranthene,0.0021,0.002,0.0022,0.0021
+153,Busarakhan,"Benzo(g,h,i)perylene",0.003,0.001,0.004,0.004
+250,Chai,"Benzo(g,h,i)perylene",0.003142857,0.001,0.004,0.004
+388,Kannika,"Benzo(g,h,i)perylene",0.0025,0.001,0.004,0.0025
+486,Kohsoom,"Benzo(g,h,i)perylene",0.001,0.001,0.001,0.001
+578,Sakda,"Benzo(g,h,i)perylene",0.0025,0.001,0.004,0.0025
+675,Somchair,"Benzo(g,h,i)perylene",0.003333333,0.002,0.004,0.004
+766,Tansanee,"Benzo(g,h,i)perylene",0.002,0.002,0.002,0.002
+63,Boonsri,Benzo(k)fluoranthene,0.007520667,0.0075,0.00874,0.0075
+154,Busarakhan,Benzo(k)fluoranthene,0.000333333,0,0.001,0
+251,Chai,Benzo(k)fluoranthene,0.000285714,0,0.001,0
+389,Kannika,Benzo(k)fluoranthene,5.00E-04,0,0.001,5.00E-04
+487,Kohsoom,Benzo(k)fluoranthene,0.007117647,0.001,0.0075,0.0075
+579,Sakda,Benzo(k)fluoranthene,5.00E-04,0,0.001,5.00E-04
+676,Somchair,Benzo(k)fluoranthene,0.000333333,0,0.001,0
+767,Tansanee,Benzo(k)fluoranthene,0.0021,0.002,0.0022,0.0021
+155,Busarakhan,Berilium,0,0,0,0
+252,Chai,Berilium,0,0,0,0
+390,Kannika,Berilium,0,0,0,0
+580,Sakda,Berilium,0,0,0,0
+677,Somchair,Berilium,0,0,0,0
+64,Boonsri,beta-Hexaxchlorocyclohexane,0.059976879,0,0.347,0.036
+156,Busarakhan,beta-Hexaxchlorocyclohexane,0.063382353,0.005,0.413,0.024
+253,Chai,beta-Hexaxchlorocyclohexane,0.044057471,0,0.299,0.0255
+391,Kannika,beta-Hexaxchlorocyclohexane,0.036989474,0,0.249,0.017
+488,Kohsoom,beta-Hexaxchlorocyclohexane,0.05434375,0,0.272,0.028
+581,Sakda,beta-Hexaxchlorocyclohexane,0.047885417,0,0.461,0.0115
+678,Somchair,beta-Hexaxchlorocyclohexane,0.055257143,0,0.443,0.016
+5,Achara,Bicarbonates,117.6482759,85.4,170.8,115.9
+65,Boonsri,Bicarbonates,181.9204447,115.9,321.8,178.985
+157,Busarakhan,Bicarbonates,210.3206556,73.2,392.1,209.3
+254,Chai,Bicarbonates,168.8426398,53.6,248.9,171
+335,Decha,Bicarbonates,157.4020488,72,262.386,147.668
+392,Kannika,Bicarbonates,176.4767091,85.4,266.5,175.6
+489,Kohsoom,Bicarbonates,227.2748318,128,341.600006,226.185
+582,Sakda,Bicarbonates,174.9729978,34.1,253.699997,175.6
+679,Somchair,Bicarbonates,184.1250846,46.1,272,185.4
+768,Tansanee,Bicarbonates,253.9223563,81.9,382.5,245.2
+6,Achara,Biochemical Oxygen,2.31025641,0.5,5.9,2.2
+66,Boonsri,Biochemical Oxygen,2.473498896,0,7.4,2.22
+158,Busarakhan,Biochemical Oxygen,2.953548387,0,9.84,2.6
+255,Chai,Biochemical Oxygen,2.285093379,0,7.3,2.1
+336,Decha,Biochemical Oxygen,3.612173913,1.1,11.2,3.6
+393,Kannika,Biochemical Oxygen,2.098348665,0,6.4,2
+490,Kohsoom,Biochemical Oxygen,5.915277778,2.51,62.5,4.8
+583,Sakda,Biochemical Oxygen,2.288290076,0,6,2.21
+680,Somchair,Biochemical Oxygen,3.320875,0,11.96,2.9
+769,Tansanee,Biochemical Oxygen,5.406296703,0,74.71,3.37
+159,Busarakhan,Boron,33.5,29,38,33.5
+256,Chai,Boron,39.66666667,35,43,41
+394,Kannika,Boron,30.66666667,22,35,35
+584,Sakda,Boron,37.33333333,36,38,38
+681,Somchair,Boron,36,33,39,36
+7,Achara,Cadmium,0.165,0,0.5,0.25
+67,Boonsri,Cadmium,2.451195711,0,148.3,0.71
+160,Busarakhan,Cadmium,1.335864848,0,43,0.422
+257,Chai,Cadmium,0.838927114,0,17.6,0.34
+337,Decha,Cadmium,0.634888889,0,7.5,0.22
+395,Kannika,Cadmium,0.889420475,0,25.81,0.208
+491,Kohsoom,Cadmium,1.400744048,0,45.6,0.462
+585,Sakda,Cadmium,0.979332696,0,25.86,0.23
+682,Somchair,Cadmium,1.40001369,0,38,0.5895
+770,Tansanee,Cadmium,0.321428571,0.25,0.75,0.25
+8,Achara,Calcium,36.87640449,24.5,54.2,35.6
+68,Boonsri,Calcium,49.16093859,1,87.25,49.2
+161,Busarakhan,Calcium,61.54358139,12.06,153.2,58.4
+258,Chai,Calcium,51.95202778,17.8,81,52
+338,Decha,Calcium,53.81873256,21.4,96.79,52.815
+396,Kannika,Calcium,53.38515788,19.8,78.9,53.4
+492,Kohsoom,Calcium,70.39855299,4,110.4,72.03
+586,Sakda,Calcium,54.09428134,30.4,84.1,54.485
+683,Somchair,Calcium,61.15018692,23.3,113,60.1
+771,Tansanee,Calcium,85.53778571,24.85,121.8,88.93
+9,Achara,Carbonates,140.3,140.3,140.3,140.3
+162,Busarakhan,Carbonates,16.35285714,6.28,28.2,18.55
+259,Chai,Carbonates,25.48000067,6.12,47.400002,23.4
+397,Kannika,Carbonates,26.760001,6.12,47.400002,26.760001
+587,Sakda,Carbonates,27.94285829,6,47.400002,35.400002
+684,Somchair,Carbonates,15.13,12,23.4,12.36
+69,Boonsri,Cesium,0.047619048,0,1,0
+163,Busarakhan,Cesium,0,0,0,0
+260,Chai,Cesium,0,0,0,0
+398,Kannika,Cesium,0,0,0,0
+493,Kohsoom,Cesium,0,0,0,0
+588,Sakda,Cesium,0,0,0,0
+685,Somchair,Cesium,0,0,0,0
+10,Achara,Chemical Oxygen Demand (Cr),6.870833333,0,23,6.5
+70,Boonsri,Chemical Oxygen Demand (Cr),9.955304294,0,27.6,9.783
+164,Busarakhan,Chemical Oxygen Demand (Cr),31.51625,0,74.88,29.37
+261,Chai,Chemical Oxygen Demand (Cr),23.48167291,0,89,23.4
+339,Decha,Chemical Oxygen Demand (Cr),26.22688172,0,69.1,24.6
+399,Kannika,Chemical Oxygen Demand (Cr),21.42198675,0,54,21.14
+494,Kohsoom,Chemical Oxygen Demand (Cr),19.99175354,0,87.8,15.4
+589,Sakda,Chemical Oxygen Demand (Cr),22.35016892,0,120,23.3
+686,Somchair,Chemical Oxygen Demand (Cr),33.96278351,0,94.08,29.59
+772,Tansanee,Chemical Oxygen Demand (Cr),59.25282292,5,431.09,50.61
+11,Achara,Chemical Oxygen Demand (Mn),2.782307692,0,7.4,2.7
+71,Boonsri,Chemical Oxygen Demand (Mn),4.003535589,1.28,13.2,3.7
+165,Busarakhan,Chemical Oxygen Demand (Mn),5.725891089,2,27,5.1
+262,Chai,Chemical Oxygen Demand (Mn),4.040435308,1.6,11.89,3.59
+340,Decha,Chemical Oxygen Demand (Mn),7.172734043,2.8,16.96,6.15
+400,Kannika,Chemical Oxygen Demand (Mn),4.209932432,1.26,11.83,3.84
+495,Kohsoom,Chemical Oxygen Demand (Mn),7.297534884,3.35,17.9,7.1
+590,Sakda,Chemical Oxygen Demand (Mn),4.365567485,2,42.7,4.07
+687,Somchair,Chemical Oxygen Demand (Mn),6.473425926,2.5,30.8,5.2
+773,Tansanee,Chemical Oxygen Demand (Mn),6.879473684,0,28.54,5.94
+12,Achara,Chlorides,10.63863636,5.4,22.1,10.2
+72,Boonsri,Chlorides,20.49450861,5.36,55.39,20.19
+166,Busarakhan,Chlorides,58.59623255,20.3,186.7,53.2
+263,Chai,Chlorides,32.28236241,13.68,85.2,31.55
+341,Decha,Chlorides,73.723625,11.4,199.61,66.65
+401,Kannika,Chlorides,32.21660238,15.92,63.200001,31.9
+496,Kohsoom,Chlorides,50.59288019,19.75,130.4,49.483
+591,Sakda,Chlorides,40.79417935,0,477,34.099999
+688,Somchair,Chlorides,74.15817763,19.21,196.800003,69.875
+774,Tansanee,Chlorides,199.517,85.8,341,191.861
+73,Boonsri,Chlorodinine,0.18132967,0.004,0.3,0.231
+167,Busarakhan,Chlorodinine,0.176290323,0.01,0.297,0.24
+264,Chai,Chlorodinine,0.177605769,0,0.3,0.227
+402,Kannika,Chlorodinine,0.164326087,0.002,0.298,0.2195
+497,Kohsoom,Chlorodinine,0.1825,0.007,0.436,0.2205
+592,Sakda,Chlorodinine,0.171225806,0.002,0.298,0.223
+689,Somchair,Chlorodinine,0.169419355,0.005,0.299,0.22
+13,Achara,Chromium,0.319298246,0,3.8,0
+74,Boonsri,Chromium,4.414762023,0,65.3,1.84
+168,Busarakhan,Chromium,7.217878981,0.05,84.4,3.15
+265,Chai,Chromium,5.385761125,0,76.9,2.6755
+342,Decha,Chromium,11.30955882,0,29,13
+403,Kannika,Chromium,6.452429577,0,95,2.8
+498,Kohsoom,Chromium,10.6571686,0,161.27,4.3
+593,Sakda,Chromium,5.798751381,0,147,2.79
+690,Somchair,Chromium,8.71396875,0.15,80.8,4.615
+775,Tansanee,Chromium,1.623846154,0.5,4.81,1
+75,Boonsri,Chrysene,0.003,0.003,0.003,0.003
+499,Kohsoom,Chrysene,0.003,0.003,0.003,0.003
+14,Achara,Copper,4.659677419,0,56,2.9
+76,Boonsri,Copper,10.34937376,0,88.6,6.1645
+169,Busarakhan,Copper,14.33898726,0.05,98,10.53
+266,Chai,Copper,14.08812108,0,283.600006,8.079
+343,Decha,Copper,8.356415094,0,65,4.19
+404,Kannika,Copper,13.26311661,0,232.22,8.4
+500,Kohsoom,Copper,22.16490117,0,1123.13,11.575
+594,Sakda,Copper,13.40777941,0,125.24,8.1375
+691,Somchair,Copper,19.19944377,0.171,177.300003,10.045
+776,Tansanee,Copper,6.368235294,1.5,13.43,6.27
+15,Achara,Cyanides,0.0025,0.0025,0.0025,0.0025
+170,Busarakhan,Cyanides,0.002417857,0,0.0051,0.002
+267,Chai,Cyanides,0.002577083,0.002,0.004,0.002
+344,Decha,Cyanides,1.533382353,0,4.44,1.8075
+405,Kannika,Cyanides,0.002369565,0,0.006,0.002
+595,Sakda,Cyanides,0.002683333,0,0.021,0.002
+692,Somchair,Cyanides,0.002835714,0,0.0097,0.002
+77,Boonsri,Dieldrin,0.053922078,0,0.612,0.005
+171,Busarakhan,Dieldrin,0.052323529,0,0.312,0.005
+268,Chai,Dieldrin,0.029981366,0,0.516,0.005
+406,Kannika,Dieldrin,0.025824176,0,0.28,0.005
+501,Kohsoom,Dieldrin,0.035870968,0,0.544,0.005
+596,Sakda,Dieldrin,0.048188889,0,0.591,0.005
+693,Somchair,Dieldrin,0.071828571,0,0.433,0.015
+777,Tansanee,Dieldrin,0.008,0.008,0.008,0.008
+172,Busarakhan,Dissolved organic carbon,8.12,8.12,8.12,8.12
+407,Kannika,Dissolved organic carbon,5.133333333,4.66,5.66,5.08
+597,Sakda,Dissolved organic carbon,3.673333333,3.07,4.26,3.69
+694,Somchair,Dissolved organic carbon,5.23,5.23,5.23,5.23
+778,Tansanee,Dissolved organic carbon,3.751666667,2.78,5.63,3.63
+16,Achara,Dissolved oxygen,10.00991667,6.4,15.1,9.8
+78,Boonsri,Dissolved oxygen,8.758687783,3.9,14.11,8.62
+173,Busarakhan,Dissolved oxygen,8.679910072,0,15.4,8.385
+269,Chai,Dissolved oxygen,8.973617284,0,15.2,8.9
+345,Decha,Dissolved oxygen,10.91232323,6.5,14.5,11.2
+408,Kannika,Dissolved oxygen,8.973416422,5,14.5,8.745
+502,Kohsoom,Dissolved oxygen,7.695324074,2.3,13.69,7.77
+598,Sakda,Dissolved oxygen,8.846111952,5.2,12.86,8.61
+695,Somchair,Dissolved oxygen,8.804587814,0,13.5,8.79
+779,Tansanee,Dissolved oxygen,8.89371134,2.72,15.96,8.92
+17,Achara,Dissolved silicates,5.248511364,0,16.833,5.462
+79,Boonsri,Dissolved silicates,3.76091954,1.9,8.3,3.1
+174,Busarakhan,Dissolved silicates,2.8805,1.02,5,2.8
+270,Chai,Dissolved silicates,2.436419753,0.8,4.61,2.38
+346,Decha,Dissolved silicates,8.802133333,1.2,21.57,9.07
+409,Kannika,Dissolved silicates,2.719722222,1.99,4.3,2.465
+503,Kohsoom,Dissolved silicates,15.375,12.3,18.7,14.5
+599,Sakda,Dissolved silicates,2.605833333,1.98,4.5,2.27
+696,Somchair,Dissolved silicates,3.66625,1.6,5.6,3.97
+780,Tansanee,Dissolved silicates,5.206181818,0.424,16.154,4.99
+80,Boonsri,Endosulfan (alpha),0.070703947,0,0.923,0.014
+175,Busarakhan,Endosulfan (alpha),0.0568,0,0.451,0.005
+271,Chai,Endosulfan (alpha),0.04298125,0,0.624,0.005
+410,Kannika,Endosulfan (alpha),0.0248125,0,0.2,0.005
+504,Kohsoom,Endosulfan (alpha),0.038703704,0,0.274,0.01
+600,Sakda,Endosulfan (alpha),0.039988095,0,0.301,0.008
+697,Somchair,Endosulfan (alpha),0.062666667,0,0.541,0.006
+81,Boonsri,Endosulfan (beta),0.054180451,0,0.632,0.016
+176,Busarakhan,Endosulfan (beta),0.062517241,0,0.482,0.005
+272,Chai,Endosulfan (beta),0.040194805,0,0.488,0.005
+411,Kannika,Endosulfan (beta),0.047974026,0,0.473,0.011
+505,Kohsoom,Endosulfan (beta),0.043703704,0,0.316,0.019
+601,Sakda,Endosulfan (beta),0.043797468,0,0.287,0.019
+698,Somchair,Endosulfan (beta),0.051551724,0,0.537,0.005
+82,Boonsri,Endrin,0.065474886,0,0.841,0.005
+177,Busarakhan,Endrin,0.075411765,0,0.65,0.005
+273,Chai,Endrin,0.079967213,0,0.919,0.005
+412,Kannika,Endrin,0.067191919,0,0.631,0.005
+506,Kohsoom,Endrin,0.056938776,0,0.377,0.025
+602,Sakda,Endrin,0.054722222,0,0.407,0.005
+699,Somchair,Endrin,0.116514286,0,1.114,0.005
+781,Tansanee,Endrin,0.0365,0.0365,0.0365,0.0365
+83,Boonsri,Fecal coliforms,0.440616269,0,23,0.22
+178,Busarakhan,Fecal coliforms,12.09924225,0,240,0.2
+274,Chai,Fecal coliforms,8.272131725,0,350,0.215
+413,Kannika,Fecal coliforms,0.981526792,0,92,0.078
+507,Kohsoom,Fecal coliforms,36.49186738,0,790,1.7
+603,Sakda,Fecal coliforms,1.107696833,0,92,0.13
+700,Somchair,Fecal coliforms,15.4945,0,240,0.27
+84,Boonsri,Fecal streptococci ,0.051580096,0,4.5,0.017
+179,Busarakhan,Fecal streptococci ,1.269032813,0,24,0.02
+275,Chai,Fecal streptococci ,0.369166946,0,16,0.025
+414,Kannika,Fecal streptococci ,0.077491053,0,5.4,0.00695
+508,Kohsoom,Fecal streptococci ,8.95855748,0,330,0.33
+604,Sakda,Fecal streptococci ,0.045067488,0,0.54,0.0078
+701,Somchair,Fecal streptococci ,2.249511475,0,24,0.24
+85,Boonsri,Fluoranthene,0.004612333,0.0045,0.00852,0.0045
+180,Busarakhan,Fluoranthene,0.003666667,0.001,0.005,0.005
+276,Chai,Fluoranthene,0.003857143,0.001,0.005,0.005
+415,Kannika,Fluoranthene,0.003,0.001,0.005,0.003
+509,Kohsoom,Fluoranthene,0.004572941,0.001,0.00838,0.0045
+605,Sakda,Fluoranthene,0.003,0.001,0.005,0.003
+702,Somchair,Fluoranthene,0.003666667,0.001,0.005,0.005
+782,Tansanee,Fluoranthene,0.0045,0.003,0.006,0.0045
+86,Boonsri,Fluorene,0.005,0.005,0.005,0.005
+510,Kohsoom,Fluorene,0.005,0.005,0.005,0.005
+18,Achara,gamma-Hexachlorocyclohexane,0,0,0,0
+87,Boonsri,gamma-Hexachlorocyclohexane,0.028532319,0,0.88,0.01
+181,Busarakhan,gamma-Hexachlorocyclohexane,0.035715232,0,0.43,0.011
+277,Chai,gamma-Hexachlorocyclohexane,0.034403813,0,0.7,0.011
+347,Decha,gamma-Hexachlorocyclohexane,0,0,0,0
+416,Kannika,gamma-Hexachlorocyclohexane,0.028064302,0,0.5,0.01
+511,Kohsoom,gamma-Hexachlorocyclohexane,0.029020261,0,0.45,0.01
+606,Sakda,gamma-Hexachlorocyclohexane,0.035230238,0,0.99,0.01
+703,Somchair,gamma-Hexachlorocyclohexane,0.03485625,0,1.03,0.01
+783,Tansanee,gamma-Hexachlorocyclohexane,0.000833333,0,0.02,0
+88,Boonsri,Heptachlor,0.00802027,0,0.093,0.005
+182,Busarakhan,Heptachlor,0.0089,0,0.065,0.005
+278,Chai,Heptachlor,0.006970238,0,0.103,0.005
+417,Kannika,Heptachlor,0.006451613,0,0.121,0.005
+512,Kohsoom,Heptachlor,0.00865625,0,0.07,0.005
+607,Sakda,Heptachlor,0.006393258,0,0.045,0.005
+704,Somchair,Heptachlor,0.007068966,0,0.029,0.005
+89,Boonsri,Heptachloroepoxide,0.007790323,0,0.236,0.005
+183,Busarakhan,Heptachloroepoxide,0.003461538,0,0.005,0.005
+279,Chai,Heptachloroepoxide,0.005778626,0,0.13,0.005
+418,Kannika,Heptachloroepoxide,0.005833333,0,0.142,0.005
+513,Kohsoom,Heptachloroepoxide,0.014518519,0,0.222,0.005
+608,Sakda,Heptachloroepoxide,0.007487179,0,0.121,0.005
+705,Somchair,Heptachloroepoxide,0.003518519,0,0.005,0.005
+90,Boonsri,Hexachlorobenzene,0.009233333,0.001,0.02,0.001
+184,Busarakhan,Hexachlorobenzene,0.0055,0.0055,0.0055,0.0055
+280,Chai,Hexachlorobenzene,0.0055,0.0055,0.0055,0.0055
+419,Kannika,Hexachlorobenzene,0.0055,0.0055,0.0055,0.0055
+514,Kohsoom,Hexachlorobenzene,0.0105,0.001,0.02,0.0105
+609,Sakda,Hexachlorobenzene,0.0055,0.0055,0.0055,0.0055
+706,Somchair,Hexachlorobenzene,0.0055,0.0055,0.0055,0.0055
+185,Busarakhan,"Indeno(1,2,3-c,d)pyrene",0.003,0.001,0.004,0.004
+281,Chai,"Indeno(1,2,3-c,d)pyrene",0.003142857,0.001,0.004,0.004
+420,Kannika,"Indeno(1,2,3-c,d)pyrene",0.0025,0.001,0.004,0.0025
+515,Kohsoom,"Indeno(1,2,3-c,d)pyrene",0.134,0.134,0.134,0.134
+610,Sakda,"Indeno(1,2,3-c,d)pyrene",0.0025,0.001,0.004,0.0025
+707,Somchair,"Indeno(1,2,3-c,d)pyrene",0.003333333,0.002,0.004,0.004
+784,Tansanee,"Indeno(1,2,3-c,d)pyrene",0,0,0,0
+19,Achara,Inorganic nitrogen,1.62375,0.15,3.759,1.4505
+91,Boonsri,Inorganic nitrogen,1.28,1.28,1.28,1.28
+348,Decha,Inorganic nitrogen,1.462083333,0.446,7.141,0.9725
+785,Tansanee,Inorganic nitrogen,4.820913043,0.215,21.063,1.956
+20,Achara,Iron,0.1975,0.08,0.38,0.195
+92,Boonsri,Iron,0.585720522,0,30.25,0.32
+186,Busarakhan,Iron,147.3834872,0,21665.84,0.6675
+282,Chai,Iron,59.89690031,0,20688.6,0.44
+349,Decha,Iron,0.711640385,0,6.115,0.381
+421,Kannika,Iron,139.4223716,0,34413.96,0.55
+516,Kohsoom,Iron,261.1981678,0.01,37959.28,0.67
+611,Sakda,Iron,62.35547335,0,28901.59,0.583
+708,Somchair,Iron,167.9822953,0,24790.53,0.9
+786,Tansanee,Iron,0.184375,0,0.63,0.15
+93,Boonsri,Isodrin,0.0114,0.001,0.025,0.001
+187,Busarakhan,Isodrin,0.015,0.015,0.015,0.015
+283,Chai,Isodrin,0.015,0.015,0.015,0.015
+422,Kannika,Isodrin,0.015,0.015,0.015,0.015
+517,Kohsoom,Isodrin,0.013705882,0.001,0.025,0.025
+612,Sakda,Isodrin,0.015,0.015,0.015,0.015
+709,Somchair,Isodrin,0.015,0.015,0.015,0.015
+21,Achara,Lead,0.928571429,0,7.8,0.5
+94,Boonsri,Lead,8.458451519,0,181.1,4.1615
+188,Busarakhan,Lead,10.10228181,0.05,66,4.841
+284,Chai,Lead,9.492125757,0,149.1,4.5
+350,Decha,Lead,8.051914894,0,109,1.36
+423,Kannika,Lead,7.715405018,0,83,2.76
+518,Kohsoom,Lead,13.88114706,0,222.94,5.648
+613,Sakda,Lead,7.885762611,0,106.599999,2.998
+710,Somchair,Lead,12.67047005,0.05,144.7,4.9
+787,Tansanee,Lead,2.121428571,0,5.49,1.5
+22,Achara,Macrozoobenthos,2.37,2.37,2.37,2.37
+95,Boonsri,Macrozoobenthos,1.794872881,0,2.24,1.9
+189,Busarakhan,Macrozoobenthos,2.123444444,0,2.5,2.12
+285,Chai,Macrozoobenthos,1.988779026,0,20,2.04
+351,Decha,Macrozoobenthos,2.33,2.1,2.58,2.32
+424,Kannika,Macrozoobenthos,2.284239496,0,42.79,2.05
+519,Kohsoom,Macrozoobenthos,2.051206897,0,2.8,2.15
+614,Sakda,Macrozoobenthos,2.516831776,0,47.21,2.07
+711,Somchair,Macrozoobenthos,2.021584615,0,2.83,2.15
+788,Tansanee,Macrozoobenthos,2.2925,2.14,2.43,2.3
+23,Achara,Magnesium,6.324719101,2.2,20.4,6.1
+96,Boonsri,Magnesium,14.38711805,3.7,61.23,12.61
+190,Busarakhan,Magnesium,27.31628442,7.05,73.93,25.335
+286,Chai,Magnesium,20.06648908,7,89.1,17.99
+352,Decha,Magnesium,13.07859036,2.6,29.36,12.51
+425,Kannika,Magnesium,19.76480881,7.05,62.25,17.9
+520,Kohsoom,Magnesium,20.256553,4.2,77.72,19.5
+615,Sakda,Magnesium,19.09882443,7.01,53.74,17.5
+712,Somchair,Magnesium,23.36583334,7.05,66.15,21.125
+789,Tansanee,Magnesium,20.77009524,6.912,63.23,18.805
+24,Achara,Manganese,0.08855,0,0.9,0.0355
+97,Boonsri,Manganese,0.309835419,0,232,0.038
+191,Busarakhan,Manganese,15.47005051,0,906,0.05
+287,Chai,Manganese,6.621183977,0,1910,0.033
+353,Decha,Manganese,0.423304854,0,4.962,0.1772
+426,Kannika,Manganese,5.877221884,0,1105.2,0.026
+521,Kohsoom,Manganese,11.24760316,0,787.5,0.09
+616,Sakda,Manganese,4.809480959,0,905,0.021
+713,Somchair,Manganese,14.17983793,0,1027.1,0.06
+790,Tansanee,Manganese,0.113737705,0,0.595,0.06
+25,Achara,Mercury,0.2092375,0,1,0
+98,Boonsri,Mercury,0.061336765,0,1.109,0.025
+192,Busarakhan,Mercury,0.050796703,0,0.4,0.047
+288,Chai,Mercury,0.046405316,0,1.27,0.027
+354,Decha,Mercury,0.019771429,0,0.13,0.015
+427,Kannika,Mercury,0.036963173,0,0.579,0.025
+522,Kohsoom,Mercury,0.258960784,0,1.035,0.266
+617,Sakda,Mercury,0.034050314,0,0.22,0.025
+714,Somchair,Mercury,0.053415464,0,0.541,0.045
+791,Tansanee,Mercury,0.01175,0,0.032,0.0075
+99,Boonsri,Methoxychlor,0.045,0.005,0.137,0.019
+193,Busarakhan,Methoxychlor,0.041,0.041,0.041,0.041
+289,Chai,Methoxychlor,0.041333333,0.017,0.064,0.0425
+523,Kohsoom,Methoxychlor,0.0315,0.009,0.054,0.0315
+618,Sakda,Methoxychlor,0.025,0.025,0.025,0.025
+715,Somchair,Methoxychlor,0.116,0.104,0.128,0.116
+100,Boonsri,Methylosmoline,0.271857143,0.001,4.406,0.288
+194,Busarakhan,Methylosmoline,0.198709677,0.004,0.342,0.293
+290,Chai,Methylosmoline,1.590721154,0.25,4.25,1.256
+428,Kannika,Methylosmoline,0.205706522,0.002,0.371,0.272
+524,Kohsoom,Methylosmoline,22.3164375,0.253,144.991,8.784
+619,Sakda,Methylosmoline,0.203967742,0.001,0.35,0.268
+716,Somchair,Methylosmoline,51.78032258,0.264,130.541,4.514
+101,Boonsri,Metolachlor,0.052752,0,0.671,0.027
+195,Busarakhan,Metolachlor,0.03137037,0,0.133,0.015
+291,Chai,Metolachlor,0.02942,0,0.179,0.017
+429,Kannika,Metolachlor,0.038929412,0,0.315,0.027
+525,Kohsoom,Metolachlor,0.045407407,0,0.285,0.03
+620,Sakda,Metolachlor,0.0348125,0,0.308,0.023
+717,Somchair,Metolachlor,0.047,0,0.389,0.021
+102,Boonsri,Naphthalene,0.010828,0.01,0.05922,0.01
+196,Busarakhan,Naphthalene,0.01,0.01,0.01,0.01
+292,Chai,Naphthalene,0.01104,0.01,0.014,0.01
+430,Kannika,Naphthalene,0.01975,0.0165,0.023,0.01975
+526,Kohsoom,Naphthalene,0.01,0.01,0.01,0.01
+621,Sakda,Naphthalene,0.0242,0.0242,0.0242,0.0242
+718,Somchair,Naphthalene,0.01125,0.01,0.0125,0.01125
+792,Tansanee,Naphthalene,0.002,0.002,0.002,0.002
+26,Achara,Nickel,1.33125,0,16.9,0
+103,Boonsri,Nickel,3.227210976,0,32,2.137
+197,Busarakhan,Nickel,4.244635433,0,45.3,2.12
+293,Chai,Nickel,4.040612626,0,55.5,2.0435
+355,Decha,Nickel,2.743057692,0,13.23,2.01
+431,Kannika,Nickel,4.323697519,0,109.32,1.978
+527,Kohsoom,Nickel,9.290263566,0,68.13,5.015
+622,Sakda,Nickel,2.859638756,0,49.3,2
+719,Somchair,Nickel,6.267407685,0,80,2.6
+793,Tansanee,Nickel,3.988888889,3.5,7.9,3.5
+27,Achara,Nitrates,1.185242815,0.21,3.73126,1.08
+104,Boonsri,Nitrates,1.184363422,0.09,3.81,1.0845
+198,Busarakhan,Nitrates,1.71235542,0,11.5,1.559135
+294,Chai,Nitrates,1.635398589,0,4.041,1.61
+356,Decha,Nitrates,0.61466,0.017,1.539,0.597
+432,Kannika,Nitrates,1.483133566,0.1,3.21,1.42
+528,Kohsoom,Nitrates,2.034646759,0,10.8,1.7865
+623,Sakda,Nitrates,1.452367463,0,3.59,1.415
+720,Somchair,Nitrates,1.844657183,0.5085,7.62,1.7875
+794,Tansanee,Nitrates,2.739091603,0.133,17.3,2.162
+28,Achara,Nitrites,0.033942222,0.003,0.21,0.024
+105,Boonsri,Nitrites,0.029380123,0,0.813,0.022
+199,Busarakhan,Nitrites,0.03503049,0,0.217,0.026
+295,Chai,Nitrites,0.028862484,0,0.412,0.021
+357,Decha,Nitrites,0.021353333,0,0.083,0.0185
+433,Kannika,Nitrites,0.034278631,0,1.51,0.026
+529,Kohsoom,Nitrites,0.066919907,0.005,0.201,0.06
+624,Sakda,Nitrites,0.036097526,0,0.443,0.024
+721,Somchair,Nitrites,0.04686331,0,1.2,0.03
+795,Tansanee,Nitrites,0.134492424,0,2.052,0.078
+29,Achara,Organic nitrogen,0.313505618,0,2.12,0.24
+106,Boonsri,Organic nitrogen,1.5525,1.34,1.68,1.595
+358,Decha,Organic nitrogen,1.948705882,0,3.998,1.498
+30,Achara,Orthophosphate-phosphorus,0.092422222,0,0.53,0.057
+107,Boonsri,Orthophosphate-phosphorus,0.08280041,0,0.98,0.0605
+200,Busarakhan,Orthophosphate-phosphorus,0.044917133,0,0.331,0.037
+296,Chai,Orthophosphate-phosphorus,0.04212983,0,0.611,0.037
+359,Decha,Orthophosphate-phosphorus,0.034849324,0,0.486,0.0245
+434,Kannika,Orthophosphate-phosphorus,0.042535934,0,0.822,0.04
+530,Kohsoom,Orthophosphate-phosphorus,0.179513825,0.014,1.75,0.14
+625,Sakda,Orthophosphate-phosphorus,0.04178105,0,0.29,0.038
+722,Somchair,Orthophosphate-phosphorus,0.039986866,0,0.2924,0.0295
+796,Tansanee,Orthophosphate-phosphorus,0.084127481,0,0.305,0.082
+31,Achara,Oxygen saturation,93.30555556,76,125,93
+108,Boonsri,Oxygen saturation,86.17428573,50.57,198.1,87.195
+201,Busarakhan,Oxygen saturation,81.19325573,22.4,106.74,84.13
+297,Chai,Oxygen saturation,84.36649593,19.4,125,84.79
+360,Decha,Oxygen saturation,99.41528302,58.09,141.85,101.39
+435,Kannika,Oxygen saturation,86.36911046,13.5,114.31,86.67
+531,Kohsoom,Oxygen saturation,79.99849206,47.35,147,79.75
+626,Sakda,Oxygen saturation,84.82981312,63.5,99,85.2
+723,Somchair,Oxygen saturation,81.26630948,23.9,108.6,83.45
+797,Tansanee,Oxygen saturation,86.9356701,35.01,199.75,81.06
+109,Boonsri,"p,p-DDD",0.096322981,0,0.857,0.046
+202,Busarakhan,"p,p-DDD",0.116058824,0.005,0.688,0.029
+298,Chai,"p,p-DDD",0.088541899,0,0.976,0.033
+436,Kannika,"p,p-DDD",0.063851064,0,0.512,0.025
+532,Kohsoom,"p,p-DDD",0.06571875,0.005,0.345,0.041
+627,Sakda,"p,p-DDD",0.071226804,0,0.596,0.026
+724,Somchair,"p,p-DDD",0.082428571,0,0.542,0.026
+110,Boonsri,"p,p-DDE",0.030011429,0,0.234,0.015
+203,Busarakhan,"p,p-DDE",0.035617647,0,0.242,0.01
+299,Chai,"p,p-DDE",0.029715054,0,0.301,0.0135
+437,Kannika,"p,p-DDE",0.030205882,0,0.186,0.0115
+533,Kohsoom,"p,p-DDE",0.0223125,0.005,0.082,0.0135
+628,Sakda,"p,p-DDE",0.024683673,0,0.267,0.0105
+725,Somchair,"p,p-DDE",0.024147059,0,0.289,0.0075
+32,Achara,"p,p-DDT",0,0,0,0
+111,Boonsri,"p,p-DDT",0.026718514,0,1.85,0.0022
+204,Busarakhan,"p,p-DDT",0.051471545,0,1.86,0.01
+300,Chai,"p,p-DDT",0.038585567,0,0.93,0.01
+361,Decha,"p,p-DDT",8.00E-04,0,0.0025,0
+438,Kannika,"p,p-DDT",0.053246114,0,2.67,0.01
+534,Kohsoom,"p,p-DDT",0.02793,0,0.43,0.003
+629,Sakda,"p,p-DDT",0.0422,0,1.25,0.01
+726,Somchair,"p,p-DDT",0.053385827,0,1.32,0.01
+798,Tansanee,"p,p-DDT",0,0,0,0
+112,Boonsri,PAHs,9.3,9.3,9.3,9.3
+205,Busarakhan,PAHs,6.45,6.45,6.45,6.45
+301,Chai,PAHs,6.69,6.69,6.69,6.69
+439,Kannika,PAHs,5.78,5.78,5.78,5.78
+535,Kohsoom,PAHs,40.9,40.9,40.9,40.9
+630,Sakda,PAHs,3.93,3.93,3.93,3.93
+727,Somchair,PAHs,6.55,6.55,6.55,6.55
+113,Boonsri,PCB 101,0.001138333,0.001,0.00756,0.001
+206,Busarakhan,PCB 101,0.001666667,0.001,0.002,0.002
+302,Chai,PCB 101,0.001714286,0.001,0.002,0.002
+440,Kannika,PCB 101,0.0015,0.001,0.002,0.0015
+536,Kohsoom,PCB 101,0.001023158,0.001,0.00144,0.001
+631,Sakda,PCB 101,0.0015,0.001,0.002,0.0015
+728,Somchair,PCB 101,0.001666667,0.001,0.002,0.002
+207,Busarakhan,PCB 118,0.002,0.002,0.002,0.002
+303,Chai,PCB 118,0.002,0.002,0.002,0.002
+441,Kannika,PCB 118,0.002,0.002,0.002,0.002
+632,Sakda,PCB 118,0.002,0.002,0.002,0.002
+729,Somchair,PCB 118,0.002,0.002,0.002,0.002
+114,Boonsri,PCB 138,0.002031667,0.002,0.00295,0.002
+208,Busarakhan,PCB 138,0.001666667,0.001,0.002,0.002
+304,Chai,PCB 138,0.001714286,0.001,0.002,0.002
+442,Kannika,PCB 138,0.0015,0.001,0.002,0.0015
+537,Kohsoom,PCB 138,0.001947368,0.001,0.002,0.002
+633,Sakda,PCB 138,0.0015,0.001,0.002,0.0015
+730,Somchair,PCB 138,0.001666667,0.001,0.002,0.002
+115,Boonsri,PCB 153,0.002,0.002,0.002,0.002
+209,Busarakhan,PCB 153,0.001666667,0.001,0.002,0.002
+305,Chai,PCB 153,0.001714286,0.001,0.002,0.002
+443,Kannika,PCB 153,0.0015,0.001,0.002,0.0015
+538,Kohsoom,PCB 153,0.001947368,0.001,0.002,0.002
+634,Sakda,PCB 153,0.0015,0.001,0.002,0.0015
+731,Somchair,PCB 153,0.001666667,0.001,0.002,0.002
+116,Boonsri,PCB 180,0.002101,0.002,0.00806,0.002
+210,Busarakhan,PCB 180,0.001666667,0.001,0.002,0.002
+306,Chai,PCB 180,0.001714286,0.001,0.002,0.002
+444,Kannika,PCB 180,0.0015,0.001,0.002,0.0015
+539,Kohsoom,PCB 180,0.002203158,0.001,0.00552,0.002
+635,Sakda,PCB 180,0.0015,0.001,0.002,0.0015
+732,Somchair,PCB 180,0.001666667,0.001,0.002,0.002
+211,Busarakhan,PCB 28,0.001,0.001,0.001,0.001
+307,Chai,PCB 28,0.001,0.001,0.001,0.001
+445,Kannika,PCB 28,0.001,0.001,0.001,0.001
+540,Kohsoom,PCB 28,0.012,0.012,0.012,0.012
+636,Sakda,PCB 28,0.001,0.001,0.001,0.001
+733,Somchair,PCB 28,0.001,0.001,0.001,0.001
+212,Busarakhan,PCB 52,0.001,0.001,0.001,0.001
+308,Chai,PCB 52,0.001,0.001,0.001,0.001
+446,Kannika,PCB 52,0.0015,0.001,0.002,0.0015
+541,Kohsoom,PCB 52,0.001,0.001,0.001,0.001
+637,Sakda,PCB 52,0.001,0.001,0.001,0.001
+734,Somchair,PCB 52,0.001,0.001,0.001,0.001
+117,Boonsri,Pentachlorobenzene,0.001,0.001,0.001,0.001
+213,Busarakhan,Pentachlorobenzene,0.004,0.004,0.004,0.004
+309,Chai,Pentachlorobenzene,0.004,0.004,0.004,0.004
+447,Kannika,Pentachlorobenzene,0.004,0.004,0.004,0.004
+542,Kohsoom,Pentachlorobenzene,0.001,0.001,0.001,0.001
+638,Sakda,Pentachlorobenzene,0.004,0.004,0.004,0.004
+735,Somchair,Pentachlorobenzene,0.004,0.004,0.004,0.004
+33,Achara,Petroleum hydrocarbons,0.013081081,0,0.16,0
+118,Boonsri,Petroleum hydrocarbons,0.267892308,0,9.411,0
+214,Busarakhan,Petroleum hydrocarbons,0.972710526,0,12,0.027
+310,Chai,Petroleum hydrocarbons,1.261210695,0,16,0.025
+362,Decha,Petroleum hydrocarbons,0.077419355,0,0.2,0
+448,Kannika,Petroleum hydrocarbons,1.329104128,0,35.3,0.023
+543,Kohsoom,Petroleum hydrocarbons,0.030617978,0,1.35,0
+639,Sakda,Petroleum hydrocarbons,1.277015865,0,16.4,0.023
+736,Somchair,Petroleum hydrocarbons,1.341671429,0,34,0.045
+799,Tansanee,Petroleum hydrocarbons,0.179871429,0,0.6171,0.13
+119,Boonsri,Phenanthrene,0.005,0.005,0.005,0.005
+215,Busarakhan,Phenanthrene,0.005,0.005,0.005,0.005
+311,Chai,Phenanthrene,0.005,0.005,0.005,0.005
+449,Kannika,Phenanthrene,0.005,0.005,0.005,0.005
+544,Kohsoom,Phenanthrene,0.005,0.005,0.005,0.005
+640,Sakda,Phenanthrene,0.005,0.005,0.005,0.005
+737,Somchair,Phenanthrene,0.005,0.005,0.005,0.005
+800,Tansanee,Phenanthrene,0.003,0.003,0.003,0.003
+34,Achara,Potassium,2.983333333,2.1,4.2,2.6
+120,Boonsri,Potassium,2.624176548,1,4.4,3
+216,Busarakhan,Potassium,5.045934066,1.2,14.5,3.9
+312,Chai,Potassium,2.718817568,1,5.8,2.6
+363,Decha,Potassium,5.292966667,2.57,20.79,4.235
+450,Kannika,Potassium,2.944832827,1,6.8,2.8
+545,Kohsoom,Potassium,4.859952153,1.6,14.8,4.6
+641,Sakda,Potassium,3.14616129,0.6,28,2.9
+738,Somchair,Potassium,4.930736842,1.4,15.4,4.2
+801,Tansanee,Potassium,7.714,7.03,8.96,7.54
+121,Boonsri,Pyrene,0.002594,0.001,0.00588,0.003
+546,Kohsoom,Pyrene,0.002961875,0.00136,0.00622,0.003
+217,Busarakhan,Selenium,0.551625,0.04,2.4,0.13
+313,Chai,Selenium,0.380684211,0.03,1.4,0.061
+451,Kannika,Selenium,0.719736842,0.035,1.9,0.46
+642,Sakda,Selenium,0.603727273,0.027,2,0.365
+739,Somchair,Selenium,1.168428571,0.036,3.5,0.85
+35,Achara,Silica (SiO2),9.458333333,4.3,18.3,8.9
+122,Boonsri,Silica (SiO2),7.054857843,0.417,18.15,6.908
+218,Busarakhan,Silica (SiO2),6.502321429,1.089,16.6,6.388
+314,Chai,Silica (SiO2),7.249940239,0.457,21.8,7.104
+452,Kannika,Silica (SiO2),6.953443089,0.4,24.6,6.267
+547,Kohsoom,Silica (SiO2),8.051406977,1.3,23.374,8.3085
+643,Sakda,Silica (SiO2),6.94445749,0.4,18.7,6.54
+740,Somchair,Silica (SiO2),7.290915663,1.9,16.8,6.78
+123,Boonsri,Simazine,0.14223301,0.005,0.742,0.094
+219,Busarakhan,Simazine,0.110333333,0.007,0.37,0.06
+315,Chai,Simazine,0.103008264,0.005,0.489,0.06
+453,Kannika,Simazine,0.108712329,0.03,0.435,0.06
+548,Kohsoom,Simazine,0.18275,0,0.73,0.0875
+644,Sakda,Simazine,0.1139,0.02,0.593,0.06
+741,Somchair,Simazine,0.09916,0.014,0.281,0.073
+802,Tansanee,Simazine,0.05,0.05,0.05,0.05
+36,Achara,Sodium,9.859090909,5.2,19.5,8.65
+124,Boonsri,Sodium,16.74760417,6.7,31,16
+220,Busarakhan,Sodium,36.55813187,16.8,99.8,29.8
+316,Chai,Sodium,20.68407285,10.2,177.51,18.4
+364,Decha,Sodium,43.680675,8,80.7,40.805
+454,Kannika,Sodium,20.39784195,11.2,31.2,20.1
+549,Kohsoom,Sodium,30.64920189,5.7,62.4,29.1
+645,Sakda,Sodium,22.22964056,11.2,108.5,20.4
+742,Somchair,Sodium,39.10831579,18.4,81.7,36.4
+803,Tansanee,Sodium,233.28,195.73,290.9,235.4
+125,Boonsri,Sulfides,0.1,0.1,0.1,0.1
+221,Busarakhan,Sulfides,0.063608696,0.012,0.1,0.1
+317,Chai,Sulfides,0.066589744,0,0.1,0.1
+455,Kannika,Sulfides,0.051896104,0,0.1,0.023
+550,Kohsoom,Sulfides,0.1,0.1,0.1,0.1
+646,Sakda,Sulfides,0.055166667,0.008,0.1,0.0225
+743,Somchair,Sulfides,0.0612,0.015,0.1,0.034
+37,Achara,Sulphates,25.39545455,12.7,47,24.45
+126,Boonsri,Sulphates,37.80469419,3.4,106.8,36.145
+222,Busarakhan,Sulphates,84.71434527,27,230.6,77.42
+318,Chai,Sulphates,33.75216478,10.1,126.4,30
+365,Decha,Sulphates,47.07468831,4.824,108,46.6
+456,Kannika,Sulphates,35.56441015,8.5,83,32.5
+551,Kohsoom,Sulphates,78.1826667,26.111,153.600006,68.5
+647,Sakda,Sulphates,35.96158491,0,90.5,32.545
+744,Somchair,Sulphates,60.2717647,22.8,176,57.15
+804,Tansanee,Sulphates,103.722093,59.34,145.2,104.656
+127,Boonsri,Tetrachloromethane,0.260087912,0.025,3.311,0.25
+223,Busarakhan,Tetrachloromethane,0.162903226,0.025,0.25,0.25
+319,Chai,Tetrachloromethane,0.188490385,0.025,0.602,0.25
+457,Kannika,Tetrachloromethane,0.169293478,0.025,0.25,0.25
+552,Kohsoom,Tetrachloromethane,0.18828125,0.025,0.609,0.25
+648,Sakda,Tetrachloromethane,0.17016129,0.025,0.25,0.25
+745,Somchair,Tetrachloromethane,0.162903226,0.025,0.25,0.25
+38,Achara,Total coliforms,5478.333333,170,16090,175
+128,Boonsri,Total coliforms,5.825762919,0,320,2.8
+224,Busarakhan,Total coliforms,24.16184868,0,780,1.75
+320,Chai,Total coliforms,20.85576913,0,350,2.79
+366,Decha,Total coliforms,433.4880952,1.1,4600,35
+458,Kannika,Total coliforms,2.575327344,0,92,0.24
+553,Kohsoom,Total coliforms,368.2872254,0,13000,16
+649,Sakda,Total coliforms,3.620725847,0,160,0.54
+746,Somchair,Total coliforms,53.00293421,0,1300,3.5
+129,Boonsri,Total dissolved phosphorus,0.057057851,0.01,0.202,0.05
+225,Busarakhan,Total dissolved phosphorus,0.06768,0.016,0.197,0.0585
+321,Chai,Total dissolved phosphorus,0.056954545,0.01,0.116,0.059
+459,Kannika,Total dissolved phosphorus,0.072527778,0.038,0.108,0.0765
+554,Kohsoom,Total dissolved phosphorus,0.239983333,0.0783,0.57,0.2221
+650,Sakda,Total dissolved phosphorus,0.073138889,0.039,0.111,0.0765
+747,Somchair,Total dissolved phosphorus,0.05728,0.008,0.199,0.044
+39,Achara,Total dissolved salts,176.0357143,108,254,175
+130,Boonsri,Total dissolved salts,246.5342707,160,2330,240
+226,Busarakhan,Total dissolved salts,445.6688742,237,1019,423
+322,Chai,Total dissolved salts,272.5141243,129,391,270.5
+367,Decha,Total dissolved salts,412.275,212,988,372
+460,Kannika,Total dissolved salts,273.895881,152.5,714,269
+555,Kohsoom,Total dissolved salts,343.3404255,254,471,341
+651,Sakda,Total dissolved salts,302.0490868,164.7,1307,274.9
+748,Somchair,Total dissolved salts,446.9701987,0,929,439
+805,Tansanee,Total dissolved salts,733.9124419,455.2,1053,731
+131,Boonsri,Total extractable matter,0.077037037,0,0.17,0.07
+227,Busarakhan,Total extractable matter,1.027833333,0.08,5.8,0.2
+323,Chai,Total extractable matter,1.555055556,0.06,10.8,0.14
+461,Kannika,Total extractable matter,3.078,0.05,25,0.12
+556,Kohsoom,Total extractable matter,0.1875,0.1,0.25,0.2
+652,Sakda,Total extractable matter,2.758,0.058,25,0.12
+749,Somchair,Total extractable matter,1.180909091,0.12,6,0.19
+40,Achara,Total hardness,115.1266667,78.2,161.3,113.05
+132,Boonsri,Total hardness,106.3101919,3.06,301,104.16
+228,Busarakhan,Total hardness,180.4527693,11.7,368.74,168
+324,Chai,Total hardness,137.1845326,9.53,219.652,133
+368,Decha,Total hardness,193.3211304,121.4,326.07,181.61
+462,Kannika,Total hardness,147.7462353,10.6,267,138.95
+557,Kohsoom,Total hardness,167.5152988,3.46,492.799988,138.6
+653,Sakda,Total hardness,150.2193261,10,240.83,141
+750,Somchair,Total hardness,159.2848918,12.3,276.56,145.5
+806,Tansanee,Total hardness,266.7340286,159.696,378.378,265.59
+41,Achara,Total nitrogen,1.649383459,0,5.67,1.5
+133,Boonsri,Total nitrogen,1.522017621,0.726,3.19,1.434
+229,Busarakhan,Total nitrogen,2.101132653,0.675,5.23,2.005
+325,Chai,Total nitrogen,2.157639125,0.57,4.92,2.07
+369,Decha,Total nitrogen,2.813180531,0.639,9.15,2.13
+463,Kannika,Total nitrogen,2.033955283,0.745,4.07,1.95
+558,Kohsoom,Total nitrogen,4.300344828,1.188,9.997,3.6615
+654,Sakda,Total nitrogen,1.977141414,0.5,4.22,1.915
+751,Somchair,Total nitrogen,2.419758974,0.766,5.78,2.33
+807,Tansanee,Total nitrogen,6.769490196,1.908,22.52,3.516
+42,Achara,Total organic carbon,2.4755,2.15,3.37,2.395
+134,Boonsri,Total organic carbon,3.180248175,1.001,6.822,3.005
+230,Busarakhan,Total organic carbon,6.903846154,4.11,19.2,5.15
+326,Chai,Total organic carbon,4.993333333,2.47,7.8,4.88
+464,Kannika,Total organic carbon,4.9329,1.61,11.42,4.215
+559,Kohsoom,Total organic carbon,5.435770833,3.001,8.96,5.288
+655,Sakda,Total organic carbon,5.536083333,1.68,10.59,5.02
+752,Somchair,Total organic carbon,8.880714286,4.21,33.4,6.71
+808,Tansanee,Total organic carbon,4.171470588,2.73,10.6,3.73
+43,Achara,Total phosphorus,0.149358209,0.022,0.82,0.106
+135,Boonsri,Total phosphorus,0.125796555,0,1.2,0.1
+231,Busarakhan,Total phosphorus,0.097001825,0,0.782,0.078
+327,Chai,Total phosphorus,0.099216481,0.006,4.07,0.079
+370,Decha,Total phosphorus,0.149063448,0.012,2.1382,0.109
+465,Kannika,Total phosphorus,0.09412719,0,0.408,0.088
+560,Kohsoom,Total phosphorus,0.270788018,0.04,2.44,0.214
+656,Sakda,Total phosphorus,0.093728281,0,0.338,0.086
+753,Somchair,Total phosphorus,0.103744161,0,0.979,0.0675
+809,Tansanee,Total phosphorus,0.200494656,0.039,0.424,0.188
+232,Busarakhan,Trifluralin,0.1,0.1,0.1,0.1
+328,Chai,Trifluralin,0.1,0.1,0.1,0.1
+466,Kannika,Trifluralin,0.1,0.1,0.1,0.1
+657,Sakda,Trifluralin,0.1,0.1,0.1,0.1
+754,Somchair,Trifluralin,0.1,0.1,0.1,0.1
+44,Achara,Water temperature,13.62941176,1,26,13
+136,Boonsri,Water temperature,14.07550813,0.2,29.5,14
+233,Busarakhan,Water temperature,13.58561837,0,30,13
+329,Chai,Water temperature,14.06936498,0,32,14
+371,Decha,Water temperature,13.27375,0.2,28,13.6
+467,Kannika,Water temperature,14.15624103,0,29.2,14
+561,Kohsoom,Water temperature,15.06175116,0.5,36.4,15
+658,Sakda,Water temperature,14.14397301,0.5,28.2,14
+755,Somchair,Water temperature,13.5934629,0,29,13
+810,Tansanee,Water temperature,14.24603175,0,34,14.5
+45,Achara,Zinc,9.786666667,3,41,6
+137,Boonsri,Zinc,44.82653957,0,950.7,28
+234,Busarakhan,Zinc,37.6071519,0,380,26.5
+330,Chai,Zinc,31.34295154,0,413,20
+372,Decha,Zinc,129.6811765,0,549,95
+468,Kannika,Zinc,28.07124767,0,815,16
+562,Kohsoom,Zinc,69.22337209,0,915.02,35.15
+659,Sakda,Zinc,33.36629921,0,1054,18
+756,Somchair,Zinc,48.87217391,0,639,31
+811,Tansanee,Zinc,29.96666667,3,154,25
